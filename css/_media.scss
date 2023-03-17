@@ -543,15 +543,18 @@
             }
         }
     }
-    .deal_vehicles {
-        .vehicles_info {
-            &:hover {
-                transform: scale(1);
-                transition-duration: 0s;
+    .vehicles{
+
+        .deal_vehicles {
+            .vehicles_info {
+                &:hover {
+                    transform: scale(1);
+                    transition-duration: 0s;
+                }
             }
         }
-      }
-    
+    }
+        
     footer {
         .contact_address_2 {
             .cont {
