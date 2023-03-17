@@ -1214,6 +1214,10 @@ section {
   .testimonials_con .customersrepeat .img_on_text .text span {
     font-size: 2rem; }
 
+  .deal_vehicles .vehicles_info:hover {
+    transform: scale(1);
+    transition-duration: 0s; }
+
   footer .contact_address_2 .cont .add h3 {
     font-size: 1rem; }
   footer .cprofile_sec .copy_right h4,
