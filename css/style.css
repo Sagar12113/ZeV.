@@ -474,7 +474,7 @@ section {
       padding: 5px; }
       .organisations_we_serve .org_slider .glide .glide__track ul li .content_box {
         box-shadow: 0 0 6px rgba(0, 0, 0, 0.16);
-        min-height: 400px; }
+        min-height: 580px; }
         .organisations_we_serve .org_slider .glide .glide__track ul li .content_box img {
           margin-top: 1rem; }
         .organisations_we_serve .org_slider .glide .glide__track ul li .content_box .org_name {
@@ -1260,7 +1260,10 @@ section {
       width: 80% !important; }
     .deal_vehicles .vehicles_info .img_name h4 {
       color: #7FA800;
-      font-size: 1.3rem; } }
+      font-size: 1.3rem; }
+
+  .organisations_we_serve .org_slider .glide .glide__track ul li .content_box {
+    min-height: 626px; } }
 @media only screen and (max-width: 405px) {
   .heading {
     font-size: 1.8rem; }
@@ -1295,7 +1298,10 @@ section {
   .testimonials_con .customersrepeat .img_on_text .text span {
     font-size: 1.5rem; }
   .testimonials_con .testimonial_slid .cards {
-    height: 31rem; } }
+    height: 31rem; }
+
+  .organisations_we_serve .org_slider .glide .glide__track ul li .content_box {
+    min-height: 648px; } }
 @media only screen and (max-width: 390px) {
   .Our_Services .modal__overlay {
     padding: 0.2 rem; }
@@ -1327,12 +1333,18 @@ section {
     margin: 0.8rem !important; }
     .deal_vehicles .vehicles_info .img_name h4 {
       color: #7FA800;
-      font-size: 1.2rem !important; } }
+      font-size: 1.2rem !important; }
+
+  .organisations_we_serve .org_slider .glide .glide__track ul li .content_box {
+    min-height: 688px; } }
 @media only screen and (max-width: 375px) {
   .zev .numbers .our_exp h1 {
     font-size: 1.2rem; }
   .zev .numbers .our_exp p {
-    font-size: 0.8rem; } }
+    font-size: 0.8rem; }
+
+  .organisations_we_serve .org_slider .glide .glide__track ul li .content_box {
+    min-height: 688px; } }
 @media only screen and (max-width: 356px) {
   .heading {
     font-size: 1.5rem; }

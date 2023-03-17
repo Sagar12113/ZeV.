@@ -369,7 +369,6 @@
                 }
             }
         }
-        
     }
     .btry2 {
         margin: 1rem 0 0 0;
@@ -392,10 +391,9 @@
                     margin: 0.2rem 0 0 0.2rem;
                 }
                 .text {
-                font-size: 1rem;
-                width: 134px;
-                
-            }
+                    font-size: 1rem;
+                    width: 134px;
+                }
             }
         }
     }
@@ -543,8 +541,7 @@
             }
         }
     }
-    .vehicles{
-
+    .vehicles {
         .deal_vehicles {
             .vehicles_info {
                 &:hover {
@@ -554,7 +551,7 @@
             }
         }
     }
-        
+
     footer {
         .contact_address_2 {
             .cont {
@@ -624,6 +621,21 @@
                 h4 {
                     color: $green;
                     font-size: 1.3rem;
+                }
+            }
+        }
+    }
+    .organisations_we_serve {
+        .org_slider {
+            .glide {
+                .glide__track {
+                    ul {
+                        li {
+                            .content_box {
+                                min-height: 626px;
+                            }
+                        }
+                    }
                 }
             }
         }
@@ -709,6 +721,22 @@
             }
         }
     }
+
+    .organisations_we_serve {
+        .org_slider {
+            .glide {
+                .glide__track {
+                    ul {
+                        li {
+                            .content_box {
+                                min-height: 648px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 @media only screen and (max-width: 390px) {
     .Our_Services {
@@ -769,6 +797,21 @@
             }
         }
     }
+    .organisations_we_serve {
+        .org_slider {
+            .glide {
+                .glide__track {
+                    ul {
+                        li {
+                            .content_box {
+                                min-height: 688px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 
 @media only screen and (max-width: 375px) {
@@ -781,6 +824,21 @@
 
                 p {
                     font-size: 0.8rem;
+                }
+            }
+        }
+    }
+    .organisations_we_serve {
+        .org_slider {
+            .glide {
+                .glide__track {
+                    ul {
+                        li {
+                            .content_box {
+                                min-height: 688px;
+                            }
+                        }
+                    }
                 }
             }
         }
